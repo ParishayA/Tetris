@@ -9,3 +9,6 @@ Using the hand gestures shown in the image below, the blocks will move to the sp
 *The audio is used for the game window.
 
 Tetris GUI Window
+
+![image](https://user-images.githubusercontent.com/95951042/161359914-fb615de0-69f6-44ca-9449-e13c258c6e03.png)
+
